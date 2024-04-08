@@ -99,7 +99,7 @@ export default function Home() {
       <section id="sponsors" className="sponsors relative" style={{willChange: "transform"}}>
         <SponsorsBackground />
         <div className="container mx-auto">
-          <div className="flex flex-col w-full items-center justify-between lg:justify-start lg:gap-[15dvh] sponsors-wrapper">
+          <div className="flex flex-col w-full items-center justify-between lg:justify-start lg:gap-16 sponsors-wrapper">
             <h2 className="heading2 light-text">Sponsors</h2>
             <div className="lg:self-center flex lg:flex-col justify-center items-center">
               <div className="flex flex-col lg:flex-row justify-center items-center">
